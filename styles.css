@@ -3,15 +3,19 @@
     background-repeat: no-repeat;
     background-position: 100px,100px,10px,10px;
     background-blend-mode:darken;
-    width: 1420px;
+    width: 100%;
     height: 600px;
     text-align: center;
-    /* border-radius: 16px;
-     background: linear-gradient(#070211 0%, rgba(0, 0, 0, 0) 100%); */
+     /* border-radius: 16px;
+     background: linear-gradient(#070211 0%, rgba(0, 0, 0, 0) 100%);  */
+     body{
+        font-family: 'Inter', sans-serif;
+        font-family: 'Merriweather', serif;
 }
-body{
+/* body{
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
+    margin: 0; */
 }
 h3{
     color: #FFF;
@@ -25,7 +29,7 @@ h3{
     font-size: medium;
 }
 .welcome{
-    width: 802.9px;
+    /*width: 802.9px;*/
 height: 500px;
 padding-left: 350px;
 padding-top: 180px;
@@ -35,18 +39,35 @@ padding-bottom: 120px;
 .main{
     background-image: url('/resources/Vectorrr.png');
     background-repeat: no-repeat;
-    width: 1520px;
+    width: 1450px;
 height: 600px;
 background-position:95px;
 padding-left: 950px;
 padding-top: 180px;
 padding-bottom: 120px;
 }
-.year{
-width: 319.83px;
-height: 464.662px;
-padding-top: 70px;
-padding-right: 870px;
-padding-bottom: 70px;
-
+button{
+    padding: 15px 35px;
+}
+.offer{
+    padding-left: 550px;
+    padding-top: 20px;
+    width: 364.844px;
+height: 364.844px;
+border-radius: 320px;
+}
+.discount{
+    background-image: url('/resources/Rectangle\ 2.png');
+    width: 1300px;
+height: 229px;
+background-repeat: no-repeat;
+background-position: 100px,150px,150px,250px;
+padding: 900px; 
+}
+.box{
+   padding-top: 0px;
+   padding-left: 250px;
+}
+.footer{
+    
 }
