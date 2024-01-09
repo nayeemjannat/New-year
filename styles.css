@@ -1,5 +1,5 @@
 .header{
-    background-image: url('/resources/Banner\ Image.png');
+    background-image: url('../Assignment1/resources/Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: 100px,100px,10px,10px;
     background-blend-mode:darken;
@@ -37,7 +37,7 @@ padding-bottom: 120px;
     
 }
 .main{
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('../Assignment1/resources/Vectorrr.png');
     background-repeat: no-repeat;
     width: 1450px;
 height: 600px;
@@ -57,7 +57,7 @@ height: 364.844px;
 border-radius: 320px;
 }
 .discount{
-    background-image: url('/resources/Rectangle\ 2.png');
+    background-image: url('../Assignment1/resources/Rectangle\ 2.png');
     width: 1300px;
 height: 229px;
 background-repeat: no-repeat;
@@ -69,5 +69,7 @@ padding: 900px;
    padding-left: 250px;
 }
 .footer{
-    
+    background-color:#070211;
+    width: 1600px;
+height: 609px;
 }
