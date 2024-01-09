@@ -86,3 +86,7 @@ span{
 #holyday{
     color: red;
 }
+#mail{
+    align-items: center;
+    padding: 500px;
+}
